@@ -1,0 +1,146 @@
+[
+  {
+    "id": "S01",
+    "name": "Aarav",
+    "team": "Team Banyan",
+    "explanation": "Both gardens have the same area because we used the same amount of fencing.",
+    "length": 2,
+    "width": 10,
+    "area": 24,
+    "scores": [
+      1,
+      2,
+      1,
+      null
+    ],
+    "note": "Ask Aarav to count the interior squares.",
+    "reviewed": false,
+    "transfer": ""
+  },
+  {
+    "id": "S02",
+    "name": "Diya",
+    "team": "Team Banyan",
+    "explanation": "The 6 by 6 garden has 36 squares inside. Both designs have a perimeter of 24. The square gives more planting space.",
+    "length": 6,
+    "width": 6,
+    "area": 36,
+    "scores": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "note": "Explained both measurements and solved the new constraint.",
+    "reviewed": true,
+    "transfer": "A 5 by 7 rectangle has perimeter 24 and area 35. It meets the minimum area of 30."
+  },
+  {
+    "id": "S03",
+    "name": "Kabir",
+    "team": "Team Neem",
+    "explanation": "We tried 4 by 8 and 6 by 6. The areas were 32 and 36. I think the square is better because we measured more space inside.",
+    "length": 6,
+    "width": 6,
+    "area": 36,
+    "scores": [
+      2,
+      3,
+      2,
+      null
+    ],
+    "note": "",
+    "reviewed": false,
+    "transfer": ""
+  },
+  {
+    "id": "S04",
+    "name": "Meera",
+    "team": "Team Neem",
+    "explanation": "Our rectangle is 4 by 8. I added the sides to find the area: 4 + 8 + 4 + 8 = 24.",
+    "length": 4,
+    "width": 8,
+    "area": 24,
+    "scores": [
+      1,
+      2,
+      1,
+      1
+    ],
+    "note": "Needs a concrete comparison of boundary length and covered surface.",
+    "reviewed": true,
+    "transfer": "I added all four sides again to get the planting space."
+  },
+  {
+    "id": "S05",
+    "name": "Ishaan",
+    "team": "Team Peepal",
+    "explanation": "We chose 3 by 9. It has 27 squares. We did not test another shape yet.",
+    "length": 3,
+    "width": 9,
+    "area": 27,
+    "scores": [
+      2,
+      1,
+      1,
+      null
+    ],
+    "note": "",
+    "reviewed": false,
+    "transfer": ""
+  },
+  {
+    "id": "S06",
+    "name": "Ananya",
+    "team": "Team Peepal",
+    "explanation": "A 2 by 10 garden encloses 20 squares, while a 6 by 6 garden encloses 36. The boundary length is the same. The planting space changes with the dimensions.",
+    "length": 6,
+    "width": 6,
+    "area": 36,
+    "scores": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "note": "Ready for a path-width extension.",
+    "reviewed": true,
+    "transfer": "A 4 by 8 garden has 32 square units and uses 24 units of fencing. This meets the requirement."
+  },
+  {
+    "id": "S07",
+    "name": "Rohan",
+    "team": "Team Gulmohar",
+    "explanation": "Our team picked this shape. I am still figuring out the difference between the two measurements.",
+    "length": 5,
+    "width": 7,
+    "area": 35,
+    "scores": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "note": "Collect an individual explanation before scoring.",
+    "reviewed": false,
+    "transfer": ""
+  },
+  {
+    "id": "S08",
+    "name": "Sara",
+    "team": "Team Gulmohar",
+    "explanation": "The perimeter is 24. The area is 35. I counted 5 rows of 7 squares inside our rectangle.",
+    "length": 5,
+    "width": 7,
+    "area": 35,
+    "scores": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "note": "Can apply a rectangular area calculation independently. Extend the comparison.",
+    "reviewed": true,
+    "transfer": "For 3 by 9, the area is 27 and perimeter is 24. It does not reach 30 square units."
+  }
+]
